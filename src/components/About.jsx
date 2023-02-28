@@ -27,19 +27,19 @@ const About = () => {
           The more I learned about web development, the more I realized the
           importance of creating user-friendly and accessible websites. I
           started to focus on front-end development and learned about HTML, CSS,
-          and JavaScript. I became fascinated with the opportunity to improve
-          the user experience and make websites more intuitive and accessible
-          for everyone.
+          and JavaScript. I am fascinated with the opportunity to improve the
+          user experience and make websites more intuitive and accessible for
+          everyone.
         </p>
 
         <br />
 
         <p className="text-xl">
-          I have a great passsion of building websites that are fast, easy to
+          I have a great passion of building websites that are fast, easy to
           use, and look great. I highly value the opportunity to always keep
-          learning and growing in my career. I believe in always striving to be
-          better, and I look forward to all the new challenges and opportunities
-          that will come my way as a front-end developer.
+          learning and growing in my career. I believe in striving to be better,
+          and I look forward to all the new challenges and opportunities that
+          will come my way as a front-end developer.
         </p>
       </div>
     </div>
