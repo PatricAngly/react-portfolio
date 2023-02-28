@@ -8,22 +8,18 @@ const NavBar = () => {
   const links = [
     {
       id: 1,
-      link: "home",
-    },
-    {
-      id: 2,
       link: "about",
     },
     {
-      id: 3,
+      id: 2,
       link: "portfolio",
     },
     {
-      id: 4,
+      id: 3,
       link: "experience",
     },
     {
-      id: 5,
+      id: 4,
       link: "contact",
     },
   ];
@@ -31,6 +27,9 @@ const NavBar = () => {
   return (
     <div className="flex justify-between flex-row-reverse md:justify-center items-center w-full h-20 px-4 text-white bg-gradient-to-r from-slate-400 via-black to-black fixed">
       <ul className="hidden md:flex">
+        <li className="px-4 cursor-pointer capitalize font-medium text-white hover:scale-105 duration-200">
+          <NavLink to="">Home</NavLink>
+        </li>
         {links.map(({ id, link }) => (
           <li
             key={id}
