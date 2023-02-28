@@ -25,11 +25,11 @@ const About = () => {
 
         <p className="text-xl">
           The more I learned about web development, the more I realized the
-          importance of creating user-friendly and accessible websites. I began
-          to focus on front-end development and learned about HTML, CSS, and
-          JavaScript. The more I became fascinated with the opportunity to
-          improve the user experience and make websites more intuitive and
-          accessible for everyone.
+          importance of creating user-friendly and accessible websites. I
+          started to focus on front-end development and learned about HTML, CSS,
+          and JavaScript. I became fascinated with the opportunity to improve
+          the user experience and make websites more intuitive and accessible
+          for everyone.
         </p>
 
         <br />
