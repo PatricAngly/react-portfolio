@@ -8,8 +8,8 @@ const Home = () => {
       name="home"
       className="md:h-auto w-full bg-gradient-to-b from-black to-slate-400 "
     >
-      <div className="max-w-screen-lg gap-10 md:gap-0 mx-auto flex flex-col items-center h-screen sm:h-auto md:h-screen justify-center px-4 md:flex-row pt-24">
-        <div className="flex flex-col justify-center mt-20 md:mt-0">
+      <div className="max-w-screen-lg gap-2 md:gap-0 mx-auto flex flex-col items-center  sm:h-auto md:h-screen px-4 md:flex-row pt-32">
+        <div className="flex flex-col  ">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Front-end Developer
           </h2>
@@ -30,12 +30,11 @@ const Home = () => {
             </Link>
           </div>
         </div>
-
         <div>
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/5 md:w-80"
+            className="rounded-2xl mx-auto w-3/5 md:w-80"
           />
         </div>
       </div>
