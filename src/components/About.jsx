@@ -15,7 +15,7 @@ const About = () => {
 
         <p className="text-xl mt-20">
           I have always had a passion for technology and problem-solving. I
-          found my love for programming a few years ago and started
+          found my interest for programming a few years ago and started
           experimenting with building simple websites. I became fascinated with
           the ability to create something from scratch and see it come to life
           on the screen.
@@ -35,11 +35,11 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I love the challenge of building websites that are fast, easy to use,
-          and look great. I also love the opportunity to always keep learning
-          and growing in my career. I believe in always striving to be better,
-          and I look forward to all the new challenges and opportunities that
-          will come my way as a front-end developer.
+          I have a great passsion of building websites that are fast, easy to
+          use, and look great. I highly value the opportunity to always keep
+          learning and growing in my career. I believe in always striving to be
+          better, and I look forward to all the new challenges and opportunities
+          that will come my way as a front-end developer.
         </p>
       </div>
     </div>
