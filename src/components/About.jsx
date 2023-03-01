@@ -12,8 +12,13 @@ const About = () => {
             About
           </p>
         </div>
-
         <p className="text-xl mt-20">
+          My name is Patric Angly and I'm 28 years old. I live in Helsingborg
+          and I'm currently studying Frontend Development at EC Utbildning in
+          Helsingborg.
+        </p>
+        <br />
+        <p className="text-xl">
           I have always had a passion for technology and problem-solving. I
           found my interest for programming a few years ago and started
           experimenting with building simple websites. I became fascinated with
