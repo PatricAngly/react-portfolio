@@ -20,7 +20,7 @@ const About = () => {
         <br />
         <p className="text-xl">
           I have always had a passion for technology and problem-solving. I
-          found my interest for programming a few years ago and started
+          found my interest in programming a few years ago and started
           experimenting with building simple websites. I became fascinated with
           the ability to create something from scratch and see it come to life
           on the screen.
@@ -40,7 +40,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I have a great passion of building websites that are fast, easy to
+          I have a great passion for building websites that are fast, easy to
           use, and look great. I highly value the opportunity to always keep
           learning and growing in my career. I believe in striving to be better,
           and I look forward to all the new challenges and opportunities that
