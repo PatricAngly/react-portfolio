@@ -1,7 +1,7 @@
 import React from "react";
 import wackamole from "../assets/Portfolio/wackamole.png";
-import weatherApi from "../assets/Portfolio/weatherApi.png";
 import minesweeper from "../assets/Portfolio/minesweeper.png";
+import webshop from "../assets/Portfolio/webshop.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -13,9 +13,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: weatherApi,
-      ref: "https://github.com/PatricAngly/GasCloud-Nordic-API",
-      name: "Current weather API Vanilla JS",
+      src: webshop,
+      ref: "https://github.com/PatricAngly/webshop",
+      name: "Webshop React Context API",
     },
     {
       id: 3,
@@ -44,7 +44,7 @@ const Portfolio = () => {
               <img
                 src={src}
                 alt=""
-                className="rounded-md duration-200 hover:scale-105"
+                className="rounded-md duration-200 hover:scale-105 w-full sm:h-auto md:h-4/5"
               />
               <div className="flex flex-col items-center justify-center">
                 <h3 className="block mt-2 capitalize">{name} </h3>
