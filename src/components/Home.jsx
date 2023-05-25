@@ -11,7 +11,7 @@ const Home = () => {
       <div className="max-w-screen-lg gap-2 md:gap-0 mx-auto flex flex-col items-center  sm:h-auto md:h-screen px-4 md:flex-row pt-32">
         <div className="flex flex-col  ">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Front-end Developer
+            I'm a Frontend Developer
           </h2>
           <p className="text-white py-4 max-w-md">
             I am a dedicated Frontend Developer student, passionate about
