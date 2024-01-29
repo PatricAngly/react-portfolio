@@ -83,7 +83,7 @@ const Experience = () => {
     {
       id: 12,
       src: netcore,
-      title: "Netcore",
+      title: ".Net Core",
       style: "shadow-purple-400",
     },
   ];
