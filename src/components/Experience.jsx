@@ -7,6 +7,10 @@ import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import firebase from "../assets/firebase.png";
 import Angular from "../assets/Angular.png";
+import mysql from "../assets/mysqlworkbench.png";
+import csharp from "../assets/C_sharp.svg.png";
+import netcore from "../assets/NET_Core_Logo.svg.png";
+import azure from "../assets/azure1.svg.png";
 
 const Experience = () => {
   const techs = [
@@ -58,12 +62,36 @@ const Experience = () => {
       title: "GitHub",
       style: "shadow-gray-400",
     },
+    {
+      id: 9,
+      src: mysql,
+      title: "MySql",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 10,
+      src: csharp,
+      title: "C#",
+      style: "shadow-purple-400",
+    },
+    {
+      id: 11,
+      src: azure,
+      title: "Azure",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 12,
+      src: netcore,
+      title: "Netcore",
+      style: "shadow-purple-400",
+    },
   ];
 
   return (
     <div
       name="experience"
-      className="bg-gradient-to-b from-black to-slate-400 w-full md:h-screen"
+      className="bg-gradient-to-b from-black to-slate-400 w-full"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col  w-full h-full text-white pt-32">
         <div>
