@@ -13,9 +13,8 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          My name is Patric Angly and I'm 28 years old. I live in Helsingborg
-          and I'm currently studying Frontend Development at EC Utbildning in
-          Helsingborg.
+          My name is Patric Angly and I'm 29 years old. I live in Helsingborg
+          and I am junior frontend developer.
         </p>
         <br />
         <p className="text-xl">
@@ -36,10 +35,10 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          I have a great passion for building websites and highly value the
+          I am passionate about building websites and highly value the
           opportunity to always keep learning and growing in my career. I look
-          forward to all the new challenges and opportunities that will come my
-          way as a frontend developer.
+          forward to all the new challenges and opportunities that await me as a
+          frontend developer.
         </p>
       </div>
     </div>

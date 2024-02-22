@@ -14,10 +14,10 @@ const Home = () => {
             I'm a Frontend Developer
           </h2>
           <p className="text-white py-4 max-w-md">
-            I am a dedicated Frontend Developer student, passionate about
-            creating and developing modern and user-friendly websites. With a
-            strong foundation in HTML, CSS, JavaScript, React, and Angular, I am
-            constantly striving to enhance my skills and take them to the next
+            I am a dedicated junior frontend developer, passionate about
+            creating and developing modern, user-friendly websites. With a
+            strong foundation in HTML, CSS, JavaScript, TypeScript, and React, I
+            constantly strive to enhance my skills and take them to the next
             level.
           </p>
 

@@ -11,6 +11,8 @@ import mysql from "../assets/mysqlworkbench.png";
 import csharp from "../assets/C_sharp.svg.png";
 import netcore from "../assets/NET_Core_Logo.svg.png";
 import azure from "../assets/azure1.svg.png";
+import node from "../assets/Node.js_logo.svg.png";
+import ts from "../assets/Typescript_logo_2020.svg.png";
 
 const Experience = () => {
   const techs = [
@@ -85,6 +87,18 @@ const Experience = () => {
       src: netcore,
       title: ".Net Core",
       style: "shadow-purple-400",
+    },
+    {
+      id: 13,
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-400",
+    },
+    {
+      id: 14,
+      src: ts,
+      title: "TypeScript",
+      style: "shadow-blue-400",
     },
   ];
 
