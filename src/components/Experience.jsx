@@ -13,7 +13,9 @@ import netcore from "../assets/NET_Core_Logo.svg.png";
 import azure from "../assets/azure1.svg.png";
 import node from "../assets/Node.js_logo.svg.png";
 import ts from "../assets/Typescript_logo_2020.svg.png";
-
+import restapi from "../assets/rest-api.png";
+import GraphQL from "../assets/GraphQL.svg.png";
+import Strapi from "../assets/strapi.png";
 const Experience = () => {
   const techs = [
     {
@@ -99,6 +101,24 @@ const Experience = () => {
       src: ts,
       title: "TypeScript",
       style: "shadow-blue-400",
+    },
+    {
+      id: 15,
+      src: restapi,
+      title: "REST Api",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 16,
+      src: GraphQL,
+      title: "GraphQL",
+      style: "shadow-purple-400",
+    },
+    {
+      id: 17,
+      src: Strapi,
+      title: "Strapi",
+      style: "shadow-purple-500",
     },
   ];
 

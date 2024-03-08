@@ -18,9 +18,9 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-          I have a passion for technology and problem-solving and found my
-          interest in programming a few years ago when I started building simple
-          websites.
+          I have a passion for technology and problem-solving, which led me to
+          discover programming a few years ago. I started building simple
+          websites and found my interest in frontend technologies.
         </p>
 
         <br />
