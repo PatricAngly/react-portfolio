@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Patric-Angly-2024-eng.pdf",
+      href: "/Patric_Angly_2025.pdf",
       style: "rounded-br-md",
       download: true,
     },
